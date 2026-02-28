@@ -43,4 +43,6 @@ flutter:
       fonts:
         - asset: assets/fonts/StoryScript.ttf
   assets:
-    - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/lottie/
