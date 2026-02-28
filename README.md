@@ -101,7 +101,6 @@ Generar reporte de cobertura:
 ./coverage.sh
 ```
 
-### Unit and widget test coverage:
 <img src="https://github.com/vmgarciahurtado/flutter-cat-breeds/blob/main/coverage_report/coverage.jpg?raw=true" alt="coverage" width="550"/>
 ---
 
