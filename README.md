@@ -102,7 +102,7 @@ Generar reporte de cobertura:
 ```
 
 <img src="https://github.com/vmgarciahurtado/flutter-cat-breeds/blob/main/coverage_report/coverage.jpg?raw=true" alt="coverage" width="550"/>
----
+
 
 ## Cómo ejecutar el proyecto
 
