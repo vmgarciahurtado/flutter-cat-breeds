@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:catbreeds/core/constants/strings.dart';
 import 'package:catbreeds/core/error/failure.dart';
-import 'package:catbreeds/features/breeds/presentation/pages/widgets/error_view.dart';
+import 'package:catbreeds/features/breeds/presentation/widgets/error_view.dart';
 
 void main() {
   group('ErrorView', () {

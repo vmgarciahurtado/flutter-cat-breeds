@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:network_image_mock/network_image_mock.dart';
 
-import 'package:catbreeds/features/breeds/presentation/pages/widgets/breed_card.dart';
+import 'package:catbreeds/features/breeds/presentation/widgets/breed_card.dart';
 import '../../breeds_test_data.dart';
 
 Future<void> pumpBreedCard(

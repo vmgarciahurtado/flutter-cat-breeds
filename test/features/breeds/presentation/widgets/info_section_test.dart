@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:catbreeds/features/breeds/presentation/pages/widgets/info_section.dart';
+import 'package:catbreeds/features/breeds/presentation/widgets/info_section.dart';
 
 void main() {
   group('InfoSection', () {

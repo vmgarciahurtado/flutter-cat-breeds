@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:catbreeds/features/breeds/presentation/pages/widgets/star_rating.dart';
+import 'package:catbreeds/features/breeds/presentation/widgets/star_rating.dart';
 
 void main() {
   group('StarRating', () {

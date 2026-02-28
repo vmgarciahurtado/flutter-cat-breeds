@@ -2,7 +2,7 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:catbreeds/core/constants/strings.dart';
 import 'package:catbreeds/core/network/api_paths.dart';
 import 'package:catbreeds/features/breeds/domain/entities/breed.dart';
-import 'package:catbreeds/features/breeds/presentation/pages/widgets/widgets.dart';
+import 'package:catbreeds/features/breeds/presentation/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 
 class BreedDetailPage extends StatelessWidget {
