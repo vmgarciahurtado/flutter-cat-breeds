@@ -1,5 +1,5 @@
-import 'package:cat_breeds/core/network/api_paths.dart';
-import 'package:cat_breeds/features/breeds/data/models/breed_model.dart';
+import 'package:catbreeds/core/network/api_paths.dart';
+import 'package:catbreeds/features/breeds/data/models/breed_model.dart';
 import 'package:dio/dio.dart';
 import 'package:retrofit/retrofit.dart';
 

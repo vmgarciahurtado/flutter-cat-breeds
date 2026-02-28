@@ -1,8 +1,8 @@
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
-import 'package:cat_breeds/core/network/dio_provider.dart';
-import 'package:cat_breeds/features/breeds/data/data.dart';
-import 'package:cat_breeds/features/breeds/domain/domain.dart';
+import 'package:catbreeds/core/network/dio_provider.dart';
+import 'package:catbreeds/features/breeds/data/data.dart';
+import 'package:catbreeds/features/breeds/domain/domain.dart';
 
 part 'breeds_providers.g.dart';
 

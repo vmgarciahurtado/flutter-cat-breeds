@@ -1,9 +1,9 @@
-import 'package:cat_breeds/features/breeds/domain/entities/breed.dart';
-import 'package:cat_breeds/features/breeds/presentation/pages/breed_detail_page.dart';
+import 'package:catbreeds/features/breeds/domain/entities/breed.dart';
+import 'package:catbreeds/features/breeds/presentation/pages/breed_detail_page.dart';
 import 'package:go_router/go_router.dart';
-import 'package:cat_breeds/features/splash/presentation/pages/splash_page.dart';
-import 'package:cat_breeds/features/breeds/presentation/pages/breeds_page.dart';
-import 'package:cat_breeds/core/routes/routes.dart';
+import 'package:catbreeds/features/splash/presentation/pages/splash_page.dart';
+import 'package:catbreeds/features/breeds/presentation/pages/breeds_page.dart';
+import 'package:catbreeds/core/routes/routes.dart';
 
 final appRouter = GoRouter(
   initialLocation: AppRoutes.splash,

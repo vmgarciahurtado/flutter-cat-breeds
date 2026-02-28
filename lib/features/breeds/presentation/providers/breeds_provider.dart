@@ -1,6 +1,6 @@
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:cat_breeds/features/breeds/di/breeds_providers.dart';
-import 'package:cat_breeds/features/breeds/domain/entities/breed.dart';
+import 'package:catbreeds/features/breeds/di/breeds_providers.dart';
+import 'package:catbreeds/features/breeds/domain/entities/breed.dart';
 
 part 'breeds_provider.g.dart';
 

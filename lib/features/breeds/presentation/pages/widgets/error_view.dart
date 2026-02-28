@@ -1,6 +1,6 @@
-import 'package:cat_breeds/core/constants/strings.dart';
+import 'package:catbreeds/core/constants/strings.dart';
 import 'package:flutter/material.dart';
-import 'package:cat_breeds/core/error/failure.dart';
+import 'package:catbreeds/core/error/failure.dart';
 
 class ErrorView extends StatelessWidget {
   final Failure failure;

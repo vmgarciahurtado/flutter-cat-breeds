@@ -1,8 +1,8 @@
 import 'package:dartz/dartz.dart';
 
-import 'package:cat_breeds/features/breeds/domain/entities/breed.dart';
-import 'package:cat_breeds/features/breeds/domain/repositories/breeds_repository.dart';
-import 'package:cat_breeds/core/error/failure.dart';
+import 'package:catbreeds/features/breeds/domain/entities/breed.dart';
+import 'package:catbreeds/features/breeds/domain/repositories/breeds_repository.dart';
+import 'package:catbreeds/core/error/failure.dart';
 
 class GetBreedsUseCase {
   final BreedsRepository _repository;

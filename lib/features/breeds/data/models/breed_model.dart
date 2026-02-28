@@ -1,5 +1,5 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:cat_breeds/features/breeds/domain/entities/breed.dart';
+import 'package:catbreeds/features/breeds/domain/entities/breed.dart';
 
 part 'breed_model.freezed.dart';
 part 'breed_model.g.dart';

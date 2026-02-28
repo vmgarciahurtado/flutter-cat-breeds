@@ -1,7 +1,7 @@
-import 'package:cat_breeds/core/constants/strings.dart';
-import 'package:cat_breeds/core/error/failure.dart';
-import 'package:cat_breeds/core/routes/routes.dart';
-import 'package:cat_breeds/features/breeds/presentation/providers/breeds_provider.dart';
+import 'package:catbreeds/core/constants/strings.dart';
+import 'package:catbreeds/core/error/failure.dart';
+import 'package:catbreeds/core/routes/routes.dart';
+import 'package:catbreeds/features/breeds/presentation/providers/breeds_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';

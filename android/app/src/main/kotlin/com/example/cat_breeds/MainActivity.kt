@@ -1,4 +1,4 @@
-package com.example.cat_breeds
+package com.example.catbreeds
 
 import io.flutter.embedding.android.FlutterActivity
 

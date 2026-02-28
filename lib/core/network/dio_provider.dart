@@ -1,4 +1,4 @@
-import 'package:cat_breeds/core/environment/env.dart';
+import 'package:catbreeds/core/environment/env.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';

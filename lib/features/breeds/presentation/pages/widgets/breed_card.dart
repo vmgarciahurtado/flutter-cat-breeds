@@ -1,8 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:cat_breeds/core/constants/strings.dart';
-import 'package:cat_breeds/core/network/api_paths.dart';
+import 'package:catbreeds/core/constants/strings.dart';
+import 'package:catbreeds/core/network/api_paths.dart';
 import 'package:flutter/material.dart';
-import 'package:cat_breeds/features/breeds/domain/entities/breed.dart';
+import 'package:catbreeds/features/breeds/domain/entities/breed.dart';
 import 'star_rating.dart';
 
 class BreedCard extends StatelessWidget {

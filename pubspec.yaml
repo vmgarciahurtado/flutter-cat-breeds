@@ -1,4 +1,4 @@
-name: cat_breeds
+name: catbreeds
 description: "A new Flutter project."
 publish_to: 'none'
 version: 1.0.0
@@ -43,6 +43,5 @@ flutter:
       fonts:
         - asset: assets/fonts/StoryScript.ttf
   assets:
-    - assets/images/
     - assets/icons/
     - assets/lottie/

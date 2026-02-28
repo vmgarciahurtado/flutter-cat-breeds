@@ -1,8 +1,8 @@
-import 'package:cat_breeds/core/constants/strings.dart';
-import 'package:cat_breeds/core/theme/theme.dart';
+import 'package:catbreeds/core/constants/strings.dart';
+import 'package:catbreeds/core/theme/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:cat_breeds/core/routes/app_router.dart';
+import 'package:catbreeds/core/routes/app_router.dart';
 
 void main() {
   runApp(const ProviderScope(child: MainApp()));
