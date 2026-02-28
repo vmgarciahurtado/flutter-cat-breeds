@@ -1,6 +1,4 @@
 class AppStrings {
-  AppStrings._();
-
   static const appName = 'CatBreeds';
   static const searchHint = 'Search breed...';
   static const noBreedsFound = 'No breeds found';

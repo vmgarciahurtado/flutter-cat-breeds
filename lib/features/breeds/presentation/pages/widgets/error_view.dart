@@ -13,7 +13,6 @@ class ErrorView extends StatelessWidget {
     final msg = failure.maybeMap(
       server: (f) => f.message,
       network: (f) => f.message,
-      unknown: (f) => f.message,
       orElse: () => AppStrings.errorOccurred,
     );
     return Center(

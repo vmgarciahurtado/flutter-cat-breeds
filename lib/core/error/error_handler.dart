@@ -2,8 +2,6 @@ import 'package:dio/dio.dart';
 import 'failure.dart';
 
 class ErrorHandler {
-  ErrorHandler._();
-
   static Failure handle(dynamic error) {
     if (error is DioException) return _fromDio(error);
     return Failure.unknown('Unexpected error: $error');

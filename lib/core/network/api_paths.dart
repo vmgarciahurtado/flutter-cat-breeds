@@ -1,6 +1,4 @@
 class ApiPaths {
-  ApiPaths._();
-
   static const baseUrl = 'https://api.thecatapi.com/v1';
   static const breedsPath = '/breeds';
   static const searchPath = '/breeds/search';
